@@ -1,5 +1,5 @@
-# After a long long time, here we start again the adventure
+# Test
 
-## Just to test and remember fundamentals
+## Just to test some fundamentals
 
 ### Subparagraph 1
