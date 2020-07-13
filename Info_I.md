@@ -2,11 +2,12 @@
 
 ## Resources
 
-## Capter 1
+## Chapter 1
 
 ### Consumptions
 ### Paths to programs
 ### miscellaneous
 
+## Chapter 2
 
 ## Index
