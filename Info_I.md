@@ -2,7 +2,7 @@
 
 ## Resources
 
-## Chapter 1
+## Setting an VCN
 
 ### Consumptions
 ### Paths to programs
